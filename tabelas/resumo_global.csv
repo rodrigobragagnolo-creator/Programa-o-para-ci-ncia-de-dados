@@ -1,0 +1,6 @@
+operacao,linux_media_ms,windows_media_ms,reducao_linux_vs_windows_pct,menor_media
+alloc_ms,161.206269,109.353713,-47.417280,Windows
+write_ms,189.969118,155.786113,-21.942267,Windows
+read_ms,1150.826654,1262.264064,8.828375,Linux
+free_ms,12.137940,40.864339,70.296987,Linux
+total_ms,1514.139982,1568.268229,3.451466,Linux

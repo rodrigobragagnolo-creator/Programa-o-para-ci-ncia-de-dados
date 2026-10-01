@@ -1,0 +1,4 @@
+Sistema operacional: Linux
+Tempo total em ms: 1515924.473652
+Tempo total em segundos: 1515.924474
+Tempo total em minutos: 25.265408

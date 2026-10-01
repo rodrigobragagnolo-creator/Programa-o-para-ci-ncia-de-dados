@@ -1,0 +1,4 @@
+Sistema operacional: Windows
+Tempo total em ms: 1569623.779500
+Tempo total em segundos: 1569.623779
+Tempo total em minutos: 26.160396
